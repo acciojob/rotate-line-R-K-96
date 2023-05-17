@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
-#line{
-	color : black;
-	width : 200 px;
-	height : 2 px;
+body{
+	color: black;
+	width: 200px;
+	height: 2px;
 }
